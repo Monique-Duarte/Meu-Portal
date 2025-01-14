@@ -11,6 +11,16 @@ body > header
     color: aliceblue;
 }
 
+.articles {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.containers h2 {
+    margin-left: 40px;
+}
+
 header .container
 {
     display: flex;
